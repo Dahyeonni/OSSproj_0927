@@ -1,5 +1,4 @@
 git&github practice
-ssss
 a
 b
 c
